@@ -12,11 +12,4 @@ First R Markdown in Git
 
 ```
 
-```{r}
-72-3
-```
-
-```{r}
-sqrt(69)
-```
 
