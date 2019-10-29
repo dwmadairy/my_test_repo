@@ -12,3 +12,7 @@ First R Markdown in Git
 
 ```
 
+```{r}
+72-3
+```
+
