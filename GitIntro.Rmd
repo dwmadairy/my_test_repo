@@ -16,3 +16,7 @@ First R Markdown in Git
 72-3
 ```
 
+```{r}
+sqrt(69)
+```
+
