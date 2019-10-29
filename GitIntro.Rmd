@@ -1,0 +1,14 @@
+---
+title: "112_09_Git2"
+author: "Will Madairy"
+date: "10/29/2019"
+output: html_document
+---
+
+First R Markdown in Git
+
+```{r}
+2+2-1
+
+```
+
